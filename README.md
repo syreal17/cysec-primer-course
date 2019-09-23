@@ -1,4 +1,6 @@
 # cysec-primer-course
+This repo is temporary hosting. Please see [www.picoctf.com](www.picoctf.com) for many other resources for all things picoCTF!
+
 CySec Primer is a course Luke 'syreal' Jones created to teach the very basics of cyber security using picoCTF.
 
 This repository is a public hosting of an easily distributed package of the course materials. This material was created initially for Pennsylvania's Governor's School for the Sciences, for the Core Computer Science course. It was made with support also from CyLab at Carnegie Mellon University.
